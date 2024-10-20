@@ -1,6 +1,6 @@
 ## Hi there 👋
-- 카페인과 눈물로 쓰여졌으니, 멀쩡하다고는 말을 못하겠습니다.
-- 오마이걸과 Speed cubing을 좋아합니다.
+- 카페인과 눈물로 쓰여졌으니, 멀정하지는 않습니다.
+- 저는 게임**소프트웨어**공학과 학생 입니다.
 <!--
 **mw2358006/mw2358006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
