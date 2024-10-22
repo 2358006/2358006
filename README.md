@@ -1,6 +1,6 @@
 ## Hi there 👋
-- 카페인과 눈물로 쓰여졌으니, 멀정하지는 않습니다.
-- 저는 게임**소프트웨어**공학과 학생 입니다.
+- 카페인과 눈물로쓰여진 학교생활
+- 📫 Contact : <2358006@mokwon.ac.kr>
 <!--
 **mw2358006/mw2358006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
